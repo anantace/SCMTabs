@@ -1,0 +1,5 @@
+pluginname=Inhaltselemente mit frei gestaltbarem Inhalt
+pluginclassname=SCMPlugin
+origin=virtUOS
+version=1.0
+studipMinVersion=2.5
