@@ -78,7 +78,7 @@ class SCMPlugin extends StudIPPlugin implements StandardPlugin {
 
             }
 
-            return array('scm' => $navigation);
+            return null;//array('scm' => $navigation);
 	     } else {
 
 		$scm = new ScmTabEntry($id);
